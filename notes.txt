@@ -1,4 +1,11 @@
 # Tutorial Series: Demystifying Docker for Data Science
-# DataOps
+# What is the use-case for DataOps?
+# UX: as a Data Scientist, I want to be able to reproduce my own analysis over time/on different devices
+# What is the case for containers?
+# Open Source has lead to diversion from standardised development environments of the past when you had much fewer & ^better defined proprietary software options
+# ^technology which standardises development environments is now necessary to control for the almost infinite variation of ^system set-up that a user might have at any one time based on the sheer volume of ever-growing choices
+
+
+
 
 
